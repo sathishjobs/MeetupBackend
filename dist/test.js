@@ -1,7 +1,0 @@
-"use strict";
-
-function test(add) {
-    console.log("thisis cool");
-}
-test();
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy90ZXN0LmpzIl0sIm5hbWVzIjpbInRlc3QiLCJhZGQiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUFBLFNBQVNBLElBQVQsQ0FBZUMsR0FBZixFQUFtQjtBQUNmQyxZQUFRQyxHQUFSLENBQVksYUFBWjtBQUNIO0FBQ0RIIiwiZmlsZSI6InRlc3QuanMiLCJzb3VyY2VzQ29udGVudCI6WyJmdW5jdGlvbiB0ZXN0IChhZGQpe1xuICAgIGNvbnNvbGUubG9nKFwidGhpc2lzIGNvb2xcIik7XG59XG50ZXN0KCk7Il19
